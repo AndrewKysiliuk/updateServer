@@ -1,0 +1,183 @@
+{
+  "users": [
+    {
+		"name": "Andriy",
+		"email": "andriy.av95@ukr.net",
+		"password": "1111",
+		"phone": "+380669575871",
+		"avatarUrl": "",
+		"key": "andriy.av95@ukr.netQwerty1234"
+    }
+  ],
+  "usersData": [
+	  {
+		  "key": "andriy.av95@ukr.netQwerty1234",
+		  "categories": [
+			  {
+				  "catName": "alco",
+				  "title": "Алкогольні напої",
+				  "data": [
+					  {
+						  "id": 1,
+						  "title": "Мохіто",
+						  "description": "лдівоадліовадоівдлаоід івола ів оілра ілра лівра л",
+						  "img": "https://placekitten.com/200/198",
+						  "date": "140820015",
+						  "component": [
+							  {
+								  "name":"Вода",
+								  "count": 4,
+								  "type": "л"
+							  }
+						  ],
+						  "prepare": [
+							  {
+								  "img": "",
+								  "info": "sdljskdhfkjshfkjshfkjsdhfkjhsdkfhskdfkjsdhf"
+							  }
+						  ]
+					  }
+				  ]
+			  }
+		  ]
+	  },
+	  {
+		  "key": "myKey",
+		  "categories": [
+            {
+                "catName": "pizza",
+				"title" : "Піца",
+				"data": [
+					  {
+						  "id": 1,
+						  "title": "Мохіто",
+						  "description": "лдівоадліовадоівдлаоід івола ів оілра ілра лівра л",
+						  "img": "https://placekitten.com/200/198",
+						  "date": "140820015",
+						  "component": [
+							  {
+								  "name":"Вода",
+								  "count": 4,
+								  "type": "л"
+							  }
+						  ],
+						  "prepare": [
+							  {
+								  "img": "",
+								  "info": "sdljskdhfkjshfkjshfkjsdhfkjhsdkfhskdfkjsdhf"
+							  }
+						  ]
+					  },
+					  {
+						  "id": 2,
+						  "title": "Фреш",
+						  "description": "лдівоадліовадоівдлаоід івола ів оілра ілра лівра л",
+						  "img": "https://placekitten.com/200/198",
+						  "date": "140820015",
+						  "component": [
+							  {
+								  "name":"Вода",
+								  "count": 4,
+								  "type": "л"
+							  }
+						  ],
+						  "prepare": [
+							  {
+								  "img": "",
+								  "info": "sdljskdhfkjshfkjshfkjsdhfkjhsdkfhskdfkjsdhf"
+							  }
+						  ]
+					  },
+					  {
+						  "id": 3,
+						  "title": "Компот",
+						  "description": "лдівоадліовадоівдлаоід івола ів оілра ілра лівра л",
+						  "img": "https://placekitten.com/200/198",
+						  "date": "140820015",
+						  "component": [
+							  {
+								  "name":"Вода",
+								  "count": 4,
+								  "type": "л"
+							  }
+						  ],
+						  "prepare": [
+							  {
+								  "img": "",
+								  "info": "sdljskdhfkjshfkjshfkjsdhfkjhsdkfhskdfkjsdhf"
+							  }
+						  ]
+					  }
+				  ]
+              },
+            {
+              "catName": "sushi",
+              "title" : "Суши",
+              "data": [
+                {
+                  "id": 1,
+                  "title": "Мохіто",
+                  "description": "лдівоадліовадоівдлаоід івола ів оілра ілра лівра л",
+                  "img": "https://placekitten.com/200/198",
+                  "date": "140820015",
+                  "component": [
+                    {
+                      "name":"Вода",
+                      "count": 4,
+                      "type": "л"
+                    }
+                  ],
+                  "prepare": [
+                    {
+                      "img": "",
+                      "info": "sdljskdhfkjshfkjshfkjsdhfkjhsdkfhskdfkjsdhf"
+                    }
+                  ]
+                },
+                {
+                  "id": 2,
+                  "title": "Фреш",
+                  "description": "лдівоадліовадоівдлаоід івола ів оілра ілра лівра л",
+                  "img": "https://placekitten.com/200/198",
+                  "date": "140820015",
+                  "component": [
+                    {
+                      "name":"Вода",
+                      "count": 4,
+                      "type": "л"
+                    }
+                  ],
+                  "prepare": [
+                    {
+                      "img": "",
+                      "info": "sdljskdhfkjshfkjshfkjsdhfkjhsdkfhskdfkjsdhf"
+                    }
+                  ]
+                },
+                {
+                  "id": 3,
+                  "title": "Компот",
+                  "description": "лдівоадліовадоівдлаоід івола ів оілра ілра лівра л",
+                  "img": "https://placekitten.com/200/198",
+                  "date": "140820015",
+                  "component": [
+                    {
+                      "name":"Вода",
+                      "count": 4,
+                      "type": "л"
+                    }
+                  ],
+                  "prepare": [
+                    {
+                      "img": "",
+                      "info": "sdljskdhfkjshfkjshfkjsdhfkjhsdkfhskdfkjsdhf"
+                    }
+                  ]
+                }
+              ]
+            }
+		  ]
+	  }
+
+  ]
+}

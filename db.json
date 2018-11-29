@@ -1,0 +1,446 @@
+{
+  "users": [
+    {
+      "name": "Андрій",
+      "email": "andriy.av95@ukr.net",
+      "password": "1111",
+      "phone": "+380669575871",
+      "avatarUrl": "",
+      "key": "andriy.av95@ukr.net1111",
+      "img": "https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "name": "Asus",
+      "email": "asus@nout.book",
+      "password": "Qwerty12",
+      "phone": "+380123456789",
+      "img": "https://htc-review.ru/wp-content/uploads/2016/02/ASUS-i-Microsoft-zaklyuchat-litsenzionnoe-soglashenie.jpg",
+      "key": "asus@nout.bookQwerty12"
+    },
+    {
+      "name": "user",
+      "email": "newUser@email.com",
+      "password": "555lllLl",
+      "phone": "555555555",
+      "img": "",
+      "key": "newUser@email.com555lllLl"
+    }
+  ],
+  "usersData": [
+    {
+      "key": "andriy.av95@ukr.net1111",
+      "categories": [
+        {
+          "catName": "alco",
+          "title": "Алкогольні напої",
+          "data": []
+        },
+        {
+          "catName": "pizza",
+          "title": "Піца",
+          "data": []
+        },
+        {
+          "catName": "sushi",
+          "title": "Суши",
+          "data": []
+        }
+      ]
+    },
+    {
+      "key": "asus@nout.bookQwerty12",
+      "categories": [
+        {
+          "catName": "alco",
+          "title": "Алкогольні напої",
+          "data": []
+        },
+        {
+          "catName": "noAlco",
+          "title": "Безалкогольні напої",
+          "data": []
+        },
+        {
+          "catName": "salad",
+          "title": "Салати",
+          "data": [
+            {
+              "id": 11,
+              "title": "1",
+              "description": "545",
+              "img": "https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&h=350",
+              "date": "",
+              "component": [
+                {
+                  "name": "5",
+                  "count": 1,
+                  "type": "кг"
+                }
+              ],
+              "prepare": [
+                {
+                  "img": "https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&h=350",
+                  "info": "54"
+                },
+                {
+                  "img": "https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&h=350",
+                  "info": "5"
+                }
+              ]
+            },
+            {
+              "id": 1,
+              "title": "Новий рецепт",
+              "description": "Опис",
+              "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+              "date": "",
+              "component": [
+                {
+                  "name": "Інгредієнт 1",
+                  "count": 1,
+                  "type": "гр"
+                },
+                {
+                  "name": "Інгредієнт 2",
+                  "count": 2,
+                  "type": "шт"
+                },
+                {
+                  "name": "Інгредієнт 3",
+                  "count": 3,
+                  "type": "л"
+                }
+              ],
+              "prepare": [
+                {
+                  "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                  "info": "Приготувати 1"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "Приготувати 2"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "Приготувати 3"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "title": "xcv",
+              "description": "xcv",
+              "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+              "date": "",
+              "component": [
+                {
+                  "name": "xcv",
+                  "count": 56,
+                  "type": "мл"
+                }
+              ],
+              "prepare": [
+                {
+                  "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                  "info": "xcv"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbcvb"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbc"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "title": "xcv",
+              "description": "xcv",
+              "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+              "date": "",
+              "component": [
+                {
+                  "name": "xcv",
+                  "count": 56,
+                  "type": "мл"
+                }
+              ],
+              "prepare": [
+                {
+                  "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                  "info": "xcv"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbcvb"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbc"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "title": "xcv",
+              "description": "xcv",
+              "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+              "date": "",
+              "component": [
+                {
+                  "name": "xcv",
+                  "count": 56,
+                  "type": "мл"
+                }
+              ],
+              "prepare": [
+                {
+                  "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                  "info": "xcv"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbcvb"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbc"
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "title": "xcv",
+              "description": "xcv",
+              "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+              "date": "",
+              "component": [
+                {
+                  "name": "xcv",
+                  "count": 56,
+                  "type": "мл"
+                }
+              ],
+              "prepare": [
+                {
+                  "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                  "info": "xcv"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbcvb"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbc"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "title": "xcv",
+              "description": "xcv",
+              "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+              "date": "",
+              "component": [
+                {
+                  "name": "xcv",
+                  "count": 56,
+                  "type": "мл"
+                }
+              ],
+              "prepare": [
+                {
+                  "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                  "info": "xcv"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbcvb"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbc"
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "title": "xcv",
+              "description": "xcv",
+              "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+              "date": "",
+              "component": [
+                {
+                  "name": "xcv",
+                  "count": 56,
+                  "type": "мл"
+                }
+              ],
+              "prepare": [
+                {
+                  "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                  "info": "xcv"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbcvb"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbc"
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "title": "xcv",
+              "description": "xcv",
+              "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+              "date": "",
+              "component": [
+                {
+                  "name": "xcv",
+                  "count": 56,
+                  "type": "мл"
+                }
+              ],
+              "prepare": [
+                {
+                  "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                  "info": "xcv"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbcvb"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbc"
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "title": "xcv",
+              "description": "xcv",
+              "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+              "date": "",
+              "component": [
+                {
+                  "name": "xcv",
+                  "count": 56,
+                  "type": "мл"
+                }
+              ],
+              "prepare": [
+                {
+                  "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                  "info": "xcv"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbcvb"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbc"
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "title": "xcv",
+              "description": "xcv",
+              "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+              "date": "",
+              "component": [
+                {
+                  "name": "xcv",
+                  "count": 56,
+                  "type": "мл"
+                }
+              ],
+              "prepare": [
+                {
+                  "img": "https://static01.nyt.com/images/2018/03/14/dining/14FIlipino1-sub/14FIlipino1-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                  "info": "xcv"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbcvb"
+                },
+                {
+                  "img": "https://prods3.imgix.net/images/articles/2016_08/Non-Feature-Photo-Editing-Apps-Iphone-Instagram-Snapseed-Facetune-vsco-Photoshop-Fix-Lightroom-Mobile-Photo-Justin-Schuble-_dcfoodporn.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=670",
+                  "info": "cvbc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "catName": "first",
+          "title": "Перші страви",
+          "data": []
+        },
+        {
+          "catName": "sup",
+          "title": "Супи",
+          "data": []
+        },
+        {
+          "catName": "pizza",
+          "title": "Піца",
+          "data": []
+        },
+        {
+          "catName": "sushi",
+          "title": "Суші",
+          "data": []
+        }
+      ]
+    },
+    {
+      "key": "newUser@email.com555lllLl",
+      "categories": [
+        {
+          "catName": "alco",
+          "title": "Алкогольні напої",
+          "data": []
+        },
+        {
+          "catName": "noAlco",
+          "title": "Безалкогольні напої",
+          "data": []
+        },
+        {
+          "catName": "salad",
+          "title": "Салати",
+          "data": []
+        },
+        {
+          "catName": "first",
+          "title": "Перші страви",
+          "data": []
+        },
+        {
+          "catName": "sup",
+          "title": "Супи",
+          "data": []
+        },
+        {
+          "catName": "pizza",
+          "title": "Піца",
+          "data": []
+        },
+        {
+          "catName": "sushi",
+          "title": "Суші",
+          "data": []
+        }
+      ]
+    }
+  ]
+}
