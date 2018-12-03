@@ -9,14 +9,14 @@ const base = new DataBase();
 app.use(cors());
 app.use(express.json());
 
-app.get('/home/:key/user', (req, res) => {  // отримуємо список категорій
+app.get('/home/:key/user', (req, res) => {  // отримуємо список користувачів
     base.getUser(req.params.key).then(
         resolve => res.status(200).send(resolve),
         reject => res.status(404).send(reject)
     );
 
 });
-app.put('/home/:key/user', (req, res) => {  // отримуємо список категорій
+app.put('/home/:key/user', (req, res) => {  // редагуємо користувача
     base.updateUser(req.params.key, req.body).then(
         resolve => res.status(200).send(JSON.stringify(resolve)),
         reject => res.status(404).send(JSON.stringify(reject)))
